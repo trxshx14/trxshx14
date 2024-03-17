@@ -6,4 +6,4 @@
 • Aspiring UX|UI Designer
 • Currently learning 𝐂, 𝐂#, 𝐇𝐓𝐌𝐋 & 𝐂𝐒𝐒
 
-[![Trisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=trxshx14)](https://github.com/trxshx14/github-readme-stats)
+![Trisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=trxshx14a&show_icons=true&theme=dracula)
