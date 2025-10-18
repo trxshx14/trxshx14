@@ -2,7 +2,7 @@
 
 "If everything goes wrong, you have to fight to the bitter end and push yourself to your limits".
 
-• A information technology student
+• An information technology student
 
 • Aspiring UX|UI Designer 
 
