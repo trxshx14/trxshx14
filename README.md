@@ -2,7 +2,7 @@
 Hello, I'm Trisha ˚୨୧⋆｡˚ ⋆<br>"If everything goes wrong, you have to fight to the bitter end and push yourself to your limits".<br><br>• An information technology student<br><br>• Aspiring UX|UI Designer<br><br>• Currently learning Spring Boot for backend development<br><br>• Motivated by growth, consistency, and learning through challenges<br>
 
 
-## 🌐 Socials:
+##  Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/trishaa_ca) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cararagtrisharaye@gmail.com) 
 
 # 💻 Tech Stack:
@@ -12,7 +12,7 @@ Hello, I'm Trisha ˚୨୧⋆｡˚ ⋆<br>"If everything goes wrong, you have to
 ![](https://nirzak-streak-stats.vercel.app/?user=trxshx14&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=trxshx14&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=trxshx14&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
