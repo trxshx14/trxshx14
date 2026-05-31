@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=e991b8&height=200&section=header&text=Trisha%20˚୨୧⋆｡˚%20⋆&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Information%20Technology%20Student%20·%20Aspiring%20UX|UI%20Designer&descAlignY=58&descColor=ffe0ec" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=e991b8&height=200&section=header&text=Hey, It's Trisha%20˚୨୧⋆｡˚%20⋆&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Information%20Technology·%20Aspiring%20UX|UI%20Designer&descAlignY=58&descColor=ffe0ec" />
 
 </div>
 
