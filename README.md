@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=e991b8&height=200&section=header&text=hey%2C%20it's%20trisha%20˚୨୧⋆｡˚%20⋆&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Information%20Technology%20Student%20·%20Aspiring%20UX|UI%20Designer&descAlignY=58&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=e991b8&height=200&section=header&text=Hey%2C%20It's%20Trisha%20˚୨୧⋆｡˚%20⋆&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Information%20Technology%20·%20UX|UI%20Designer&descAlignY=58&descColor=ffffff" />
 
 </div>
 
@@ -13,7 +13,7 @@
 ## 💫 About Me
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎀 &nbsp;Information Technology student finding my way through code and creativity  
-&nbsp;&nbsp;&nbsp;&nbsp;🖌️ &nbsp;Aspiring UX | UI Designer — making digital spaces beautiful and human  
+&nbsp;&nbsp;&nbsp;&nbsp;🖌️ &nbsp;UX | UI Designer — making digital spaces beautiful and human  
 &nbsp;&nbsp;&nbsp;&nbsp;🌱 &nbsp;Currently learning **Spring Boot** for backend development  
 &nbsp;&nbsp;&nbsp;&nbsp;✨ &nbsp;Motivated by growth, consistency, and learning through challenges  
 
@@ -97,11 +97,19 @@
 
 <br/>
 
----
+## ✍️ Dev Quote
 
 <div align="center">
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=trxshx14&icon=6&color=6)](https://visitcount.itsvg.in)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&bg_color=fff0f7&border_color=e991b8&text_color=b05080&author_color=e991b8)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=e991b8&height=100&section=footer" />
 
