@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=e991b8&height=200&section=header&text=Hey, It's Trisha%20˚୨୧⋆｡˚%20⋆&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Information%20Technology·%20Aspiring%20UX|UI%20Designer&descAlignY=58&descColor=ffe0ec" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=e991b8&height=200&section=header&text=Trisha%20˚୨୧⋆｡˚%20⋆&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Information%20Technology%20Student%20·%20Aspiring%20UX|UI%20Designer&descAlignY=58&descColor=ffe0ec" />
 
 </div>
 
@@ -70,13 +70,30 @@
 
 <br/>
 
-## 🎯 2025 Goals
+## 🌺 Projects I'm Proud Of
 
-```
-🏗️  Ship a full-stack project   →   Spring Boot + React end-to-end
-🎨  Build a design portfolio    →   UX case studies & Figma work
-🌱  Contribute to open source   →   Give back to the community
-```
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🗓️ AttendMe — Attendance Management System</h3>
+      <p>A full-stack web application that streamlines attendance tracking for students and instructors. Built as a course project for IT342, AttendMe features secure user authentication, real-time attendance recording, and a clean dashboard for monitoring records — all wrapped in a responsive React frontend backed by a Spring Boot REST API.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-f2a8c8?style=flat-square&logo=react&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/Spring Boot-f2a8c8?style=flat-square&logo=spring&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/REST API-e991b8?style=flat-square&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/MySQL-f7bcd4?style=flat-square&logo=mysql&logoColor=ffffff" />
+      </p>
+      <p>
+        <a href="https://github.com/trxshx14/IT342-Cararag-AttendMe">
+          <img src="https://img.shields.io/badge/View Repository-e991b8?style=for-the-badge&logo=github&logoColor=ffffff" />
+        </a>&nbsp;
+        <a href="https://attendme-frontend.onrender.com/login">
+          <img src="https://img.shields.io/badge/Live Demo-f7bcd4?style=for-the-badge&logo=render&logoColor=ffffff" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
