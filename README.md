@@ -97,11 +97,11 @@
 
 <br/>
 
-## ✍️ Dev Quote
+## ✍️ Words I Code By
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=pink_coder)
+<img src="https://img.shields.io/badge/❝%20First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.%20❞%20— John%20Johnson-e991b8?style=for-the-badge&logoColor=ffffff" />
 
 </div>
 
