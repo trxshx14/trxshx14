@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Trisha%20˚୨୧⋆｡˚%20⋆&fontSize=50&fontColor=fff&fontAlignY=38&desc=Information%20Technology%20Student%20·%20Aspiring%20UX|UI%20Designer&descAlignY=58&descColor=ffe0ec" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=e991b8&height=200&section=header&text=Trisha%20˚୨୧⋆｡˚%20⋆&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Information%20Technology%20Student%20·%20Aspiring%20UX|UI%20Designer&descAlignY=58&descColor=ffe0ec" />
 
 </div>
 
@@ -28,22 +28,22 @@
 
 ## 💻 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-f4a7c0?style=for-the-badge&logo=javascript&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-f7bdd0?style=for-the-badge&logo=openjdk&logoColor=fff)
-![C](https://img.shields.io/badge/C-f0b8ce?style=for-the-badge&logo=c&logoColor=fff)
-![C++](https://img.shields.io/badge/C++-f5c2d6?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
-![Kotlin](https://img.shields.io/badge/Kotlin-e8a0c0?style=for-the-badge&logo=kotlin&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-f2afc5?style=for-the-badge&logo=python&logoColor=fff)
-![PHP](https://img.shields.io/badge/PHP-f0bcd4?style=for-the-badge&logo=php&logoColor=fff)
-![PowerShell](https://img.shields.io/badge/PowerShell-edb5ce?style=for-the-badge&logo=powershell&logoColor=fff)
-![React](https://img.shields.io/badge/React-f9c8d9?style=for-the-badge&logo=react&logoColor=fff)
-![Spring](https://img.shields.io/badge/Spring-f4b8cc?style=for-the-badge&logo=spring&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-f7c5d8?style=for-the-badge&logo=tailwind-css&logoColor=fff)
-![Django](https://img.shields.io/badge/Django-f0b0c8?style=for-the-badge&logo=django&logoColor=fff)
-![HTML5](https://img.shields.io/badge/HTML5-f9bed0?style=for-the-badge&logo=html5&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-f4b5cc?style=for-the-badge&logo=mysql&logoColor=fff)
-![SQLite](https://img.shields.io/badge/SQLite-edbaca?style=for-the-badge&logo=sqlite&logoColor=fff)
-![Figma](https://img.shields.io/badge/Figma-f8c0d2?style=for-the-badge&logo=figma&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-e991b8?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-e991b8?style=for-the-badge&logo=openjdk&logoColor=ffffff)
+![C](https://img.shields.io/badge/C-e991b8?style=for-the-badge&logo=c&logoColor=ffffff)
+![C++](https://img.shields.io/badge/C++-e991b8?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)
+![Kotlin](https://img.shields.io/badge/Kotlin-e991b8?style=for-the-badge&logo=kotlin&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-e991b8?style=for-the-badge&logo=python&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/PHP-e991b8?style=for-the-badge&logo=php&logoColor=ffffff)
+![PowerShell](https://img.shields.io/badge/PowerShell-e991b8?style=for-the-badge&logo=powershell&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-f2a8c8?style=for-the-badge&logo=react&logoColor=ffffff)
+![Spring](https://img.shields.io/badge/Spring-f2a8c8?style=for-the-badge&logo=spring&logoColor=ffffff)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-f2a8c8?style=for-the-badge&logo=tailwind-css&logoColor=ffffff)
+![Django](https://img.shields.io/badge/Django-f2a8c8?style=for-the-badge&logo=django&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-f2a8c8?style=for-the-badge&logo=html5&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/MySQL-f7bcd4?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![SQLite](https://img.shields.io/badge/SQLite-f7bcd4?style=for-the-badge&logo=sqlite&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/Figma-f7bcd4?style=for-the-badge&logo=figma&logoColor=ffffff)
 
 <br/>
 
@@ -86,6 +86,6 @@
 
 [![Visit Count](https://visitcount.itsvg.in/api?id=trxshx14&icon=6&color=6)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=e991b8&height=100&section=footer" />
 
 </div>
