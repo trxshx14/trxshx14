@@ -101,7 +101,7 @@
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&bg_color=fff0f7&border_color=e991b8&text_color=b05080&author_color=e991b8)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=pink_coder)
 
 </div>
 
@@ -110,7 +110,5 @@
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=e991b8&height=100&section=footer" />
-
 </div>
