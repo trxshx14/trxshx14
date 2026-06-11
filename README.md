@@ -21,6 +21,7 @@
 
 ## 🌷 Socials
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-e991b8?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://trisha-cararag-portfolio.vercel.app/)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-e991b8?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://instagram.com/trishaa_ca)&nbsp;
 [![Email](https://img.shields.io/badge/Email-e991b8?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:cararagtrisharaye@gmail.com)
 
