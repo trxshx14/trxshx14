@@ -12,9 +12,8 @@
 
 ## 💫 About Me
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎀 &nbsp;Information Technology student finding my way through code and creativity  
-&nbsp;&nbsp;&nbsp;&nbsp;🖌️ &nbsp;UX | Frontend Developer — making digital spaces beautiful and human 
-&nbsp;&nbsp;&nbsp;&nbsp;🖌️ &nbsp;UX | UI Designer — making digital spaces beautiful and human  
+&nbsp;&nbsp;&nbsp;&nbsp;🎀 &nbsp;Information Technology student finding my way through code and creativity   
+&nbsp;&nbsp;&nbsp;&nbsp;🖌️ &nbsp;UX | UI Designer & Frontend Developer — making digital spaces beautiful and human  
 &nbsp;&nbsp;&nbsp;&nbsp;🌱 &nbsp;Currently learning **Spring Boot** for backend development  
 &nbsp;&nbsp;&nbsp;&nbsp;✨ &nbsp;Motivated by growth, consistency, and learning through challenges  
 
