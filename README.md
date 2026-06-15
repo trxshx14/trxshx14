@@ -12,10 +12,10 @@
 
 ## 💫 About Me
 
-🎀 &nbsp;Information Technology student finding my way through code and creativity  
-🖌️ &nbsp;UX | UI Designer & Frontend Developer — making digital spaces beautiful and human  
-🌱 &nbsp;Currently learning **Spring Boot** for backend development  
-✨ &nbsp;Motivated by growth, consistency, and learning through challenges  
+🎀 &nbsp;Information Technology student finding my way through code and creativity    
+🖌️ &nbsp;UX | UI Designer & Frontend Developer — making digital spaces beautiful and human    
+🌱 &nbsp;Currently learning **Spring Boot** for backend development    
+✨ &nbsp;Motivated by growth, consistency, and learning through challenges    
 
 <br/>
 
@@ -45,15 +45,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-e991b8?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![SQLite](https://img.shields.io/badge/SQLite-e991b8?style=for-the-badge&logo=sqlite&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/Figma-e991b8?style=for-the-badge&logo=figma&logoColor=ffffff)
-
-<br/>
-
-## GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trxshx14&show_icons=true&theme=default&title_color=e991b8&icon_color=e991b8&text_color=555555&bg_color=ffffff&hide_border=false" alt="Trisha's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trxshx14&layout=compact&theme=default&title_color=e991b8&text_color=555555&bg_color=ffffff&hide_border=false" alt="Trisha's Most Used Languages" height="180" />
-</div>
 
 <br/>
 
@@ -117,6 +108,17 @@
     </tr>
   </tbody>
 </table>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trxshx14&show_icons=true&theme=default&title_color=e991b8&icon_color=e991b8&text_color=555555&bg_color=ffffff&hide_border=false" alt="Trisha's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trxshx14&layout=compact&theme=default&title_color=e991b8&text_color=555555&bg_color=ffffff&hide_border=false" alt="Trisha's Most Used Languages" height="180" />
+</div>
+
+<br/>
 
 ## ✍️ Words I Code By
 
