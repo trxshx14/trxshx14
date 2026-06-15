@@ -24,13 +24,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](your-linkedin-link-here)&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:cararagtrisharaye@gmail.com)
 
-*(UX Note: Replaced Instagram with LinkedIn for professional relevance, and restored recognizable brand colors to official logos for instant recognition.)*
 
 <br/>
 
-## 💻 Tech Stack & Tools
+##  Tech Stack & Tools
 
-### 🎨 Design & Frontend
+###  Design & Frontend
 ![Figma](https://img.shields.io/badge/Figma-e991b8?style=for-the-badge&logo=figma&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-e991b8?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/React-e991b8?style=for-the-badge&logo=react&logoColor=ffffff)
@@ -38,12 +37,17 @@
 ![HTML5](https://img.shields.io/badge/HTML5-e991b8?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/CSS3-e991b8?style=for-the-badge&logo=css3&logoColor=ffffff)
 
-### ⚙️ Backend & Databases
+###  Backend & Databases
 ![Java](https://img.shields.io/badge/Java-e991b8?style=for-the-badge&logo=openjdk&logoColor=ffffff)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-e991b8?style=for-the-badge&logo=spring&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/MySQL-e991b8?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-e991b8?style=for-the-badge&logo=python&logoColor=ffffff)
+![Django](https://img.shields.io/badge/Django-e991b8?style=for-the-badge&logo=django&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/MySQL-e991b8?style=for-the-badge&logo=mysql&logoColor=ffffff))
 
-### ⏳ Currently Learning
+###  Foundational & Systems Programming
+![C Language](https://img.shields.io/badge/C-e991b8?style=for-the-badge&logo=c&logoColor=ffffff)
+
+###  Currently Learning
 ![TypeScript](https://img.shields.io/badge/TypeScript-e991b8?style=for-the-badge&logo=typescript&logoColor=ffffff)
 ![Kotlin](https://img.shields.io/badge/Kotlin-e991b8?style=for-the-badge&logo=kotlin&logoColor=ffffff)
 
