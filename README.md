@@ -30,24 +30,22 @@
 
 ## 💻 Tech Stack & Tools
 
-*Instead of a sea of identical badges, your tools are now curated and categorized so recruiters can instantly see your core specializations.*
-
-### 🎨 Design & Frontend (Core Focus)
-![Figma](https://img.shields.io/badge/Figma-[#F24E1E]?style=flat-square&logo=figma&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-[#F7DF1E]?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-[#61DAFB]?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-[#06B6D4]?style=flat-square&logo=tailwind-css&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/HTML5-[#E34F26]?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/CSS3-[#1572B6]?style=flat-square&logo=css3&logoColor=ffffff)
+### 🎨 Design & Frontend
+![Figma](https://img.shields.io/badge/Figma-e991b8?style=for-the-badge&logo=figma&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-e991b8?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-e991b8?style=for-the-badge&logo=react&logoColor=ffffff)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-e991b8?style=for-the-badge&logo=tailwind-css&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-e991b8?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-e991b8?style=for-the-badge&logo=css3&logoColor=ffffff)
 
 ### ⚙️ Backend & Databases
-![Java](https://img.shields.io/badge/Java-[#ED8B00]?style=flat-square&logo=openjdk&logoColor=ffffff)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-[#6DB33F]?style=flat-square&logo=spring&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/MySQL-[#4479A1]?style=flat-square&logo=mysql&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-e991b8?style=for-the-badge&logo=openjdk&logoColor=ffffff)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-e991b8?style=for-the-badge&logo=spring&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/MySQL-e991b8?style=for-the-badge&logo=mysql&logoColor=ffffff)
 
-### ⏳ Currently Learning & Exploring
-![TypeScript](https://img.shields.io/badge/TypeScript-[#3178C6]?style=flat-square&logo=typescript&logoColor=ffffff)
-![Kotlin](https://img.shields.io/badge/Kotlin-[#7F52FF]?style=flat-square&logo=kotlin&logoColor=ffffff)
+### ⏳ Currently Learning
+![TypeScript](https://img.shields.io/badge/TypeScript-e991b8?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![Kotlin](https://img.shields.io/badge/Kotlin-e991b8?style=for-the-badge&logo=kotlin&logoColor=ffffff)
 
 <br/>
 
