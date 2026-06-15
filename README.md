@@ -87,8 +87,8 @@
         <b>Tech Stack:</b> <code>React</code>, <code>Spring Boot</code>, <code>MySQL</code>, <code>TailwindCSS</code>
       </td>
       <td align="center" valign="middle">
-        <a href="https://github.com/trxshx14/IT342-Cararag-AttendMe">💻 Source</a><br/><br/>
-        <a href="https://attendme-frontend.onrender.com/login">🚀 Live Demo</a>
+        <a href="https://github.com/trxshx14/IT342-Cararag-AttendMe"> Source</a><br/><br/>
+        <a href="https://attendme-frontend.onrender.com/login"> Live Demo</a>
       </td>
     </tr>
     <tr>
@@ -101,8 +101,8 @@
         <b>Tech Stack:</b> <code>React</code>, <code>TailwindCSS</code>, <code>Figma (UI/UX Design)</code>
       </td>
       <td align="center" valign="middle">
-        <a href="https://github.com/trxshx14/CozyPomodoro.git">💻 Source</a><br/><br/>
-        <a href="https://cozypomodoro-by-trishadev.vercel.app/">🚀 Live Demo</a>
+        <a href="https://github.com/trxshx14/CozyPomodoro.git"> Source</a><br/><br/>
+        <a href="https://cozypomodoro-by-trishadev.vercel.app/"> Live Demo</a>
       </td>
     </tr>
   </tbody>
