@@ -21,7 +21,7 @@
 ## 🌷 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-e991b8?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://trisha-cararag-portfolio.vercel.app/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](your-linkedin-link-here)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/trisha-raye-cararag/)&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:cararagtrisharaye@gmail.com)
 
 
