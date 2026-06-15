@@ -84,7 +84,7 @@
   <tbody>
     <tr>
       <td align="center" valign="middle" width="15%">
-        🗓️<br/><b>AttendMe</b>
+        <br/><b>AttendMe</b>
       </td>
       <td align="left" valign="top" width="70%">
         A full-stack web application that streamlines attendance tracking for students and instructors. Features secure user authentication, real-time attendance recording, and a clean dashboard. Built with a responsive <b>React</b> frontend and a <b>Spring Boot</b> REST API with <b>MySQL</b>.
@@ -96,7 +96,7 @@
     </tr>
     <tr>
       <td align="center" valign="middle">
-        🧸<br/><b>CozyPomodoro</b>
+        <br/><b>CozyPomodoro</b>
       </td>
       <td align="left" valign="top">
         A beautifully designed, aesthetic Pomodoro timer crafted to elevate focus and productivity. Combines a user-centered minimalist interface with cozy visual cues to build a calming and distraction-free work or study environment.
@@ -114,8 +114,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trxshx14&show_icons=true&theme=default&title_color=e991b8&icon_color=e991b8&text_color=555555&bg_color=ffffff&hide_border=false" alt="Trisha's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trxshx14&layout=compact&theme=default&title_color=e991b8&text_color=555555&bg_color=ffffff&hide_border=false" alt="Trisha's Most Used Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=trxshx14&show_icons=true&theme=default&title_color=e991b8&icon_color=e991b8&text_color=555555&bg_color=ffffff&hide_border=false" alt="Trisha's GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trxshx14&layout=compact&theme=default&title_color=e991b8&text_color=555555&bg_color=ffffff&hide_border=false&langs_count=6" alt="Trisha's Most Used Languages" height="195" />
 </div>
 
 <br/>
