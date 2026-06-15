@@ -42,7 +42,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-e991b8?style=for-the-badge&logo=spring&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/Python-e991b8?style=for-the-badge&logo=python&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/Django-e991b8?style=for-the-badge&logo=django&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/MySQL-e991b8?style=for-the-badge&logo=mysql&logoColor=ffffff))
+![MySQL](https://img.shields.io/badge/MySQL-e991b8?style=for-the-badge&logo=mysql&logoColor=ffffff)
 
 ###  Foundational & Systems Programming
 ![C Language](https://img.shields.io/badge/C-e991b8?style=for-the-badge&logo=c&logoColor=ffffff)
@@ -55,7 +55,6 @@
 
 ## 🗺️ Current Focus & Journey
 
-*Collapsed your two redundant tables into one high-impact tracker.*
 
 | Status | Technology / Discipline | Focus Area & Application |
 |---|---|---|
