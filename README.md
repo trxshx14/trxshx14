@@ -99,8 +99,8 @@
         A full-stack web application that streamlines attendance tracking for students and instructors. Features secure user authentication, real-time attendance recording, and a clean dashboard. Built with a responsive <b>React</b> frontend and a <b>Spring Boot</b> REST API with <b>MySQL</b>.
       </td>
       <td align="center" valign="middle" width="15%">
-        <a href="https://github.com/trxshx14/IT342-Cararag-AttendMe">GitHub</a><br/>
-        <a href="https://attendme-frontend.onrender.com/login">Live</a>
+        <a href="https://github.com/trxshx14/IT342-Cararag-AttendMe">Source Code</a><br/>
+        <a href="https://attendme-frontend.onrender.com/login">Live Demo</a>
       </td>
     </tr>
     <tr>
@@ -111,8 +111,8 @@
         A beautifully designed, aesthetic Pomodoro timer crafted to elevate focus and productivity. Combines a user-centered minimalist interface with cozy visual cues to build a calming and distraction-free work or study environment.
       </td>
       <td align="center" valign="middle">
-        <a href="https://github.com/trxshx14/CozyPomodoro.git">GitHub</a><br/>
-        <a href="https://cozypomodoro-by-trishadev.vercel.app/">Live</a>
+        <a href="https://github.com/trxshx14/CozyPomodoro.git">Source Code</a><br/>
+        <a href="https://cozypomodoro-by-trishadev.vercel.app/">Live Demo</a>
       </td>
     </tr>
   </tbody>
