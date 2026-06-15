@@ -82,28 +82,10 @@
 
 ## 🌺 Projects I'm Proud Of
 
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <h3>🗓️ AttendMe — Attendance Management System</h3>
-      <p>A full-stack web application that streamlines attendance tracking for students and instructors. Built as a course project for IT342, AttendMe features secure user authentication, real-time attendance recording, and a clean dashboard for monitoring records — all wrapped in a responsive React frontend backed by a Spring Boot REST API.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-e991b8?style=flat-square&logo=react&logoColor=ffffff" />
-        <img src="https://img.shields.io/badge/Spring Boot-e991b8?style=flat-square&logo=spring&logoColor=ffffff" />
-        <img src="https://img.shields.io/badge/REST API-e991b8?style=flat-square&logoColor=ffffff" />
-        <img src="https://img.shields.io/badge/MySQL-e991b8?style=flat-square&logo=mysql&logoColor=ffffff" />
-      </p>
-      <p>
-        <a href="https://github.com/trxshx14/IT342-Cararag-AttendMe">
-          <img src="https://img.shields.io/badge/View Repository-e991b8?style=for-the-badge&logo=github&logoColor=ffffff" />
-        </a>&nbsp;
-        <a href="https://attendme-frontend.onrender.com/login">
-          <img src="https://img.shields.io/badge/Live Demo-e991b8?style=for-the-badge&logo=render&logoColor=ffffff" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+| Project | Description | Links |
+| :---: | | :---: |
+| 🗓️ <br/> **AttendMe** | A full-stack web application that streamlines attendance tracking for students and instructors. Features secure user authentication, real-time attendance recording, and a clean dashboard. Built with a responsive **React** frontend and a **Spring Boot** REST API with **MySQL**. | [GitHub](https://github.com/trxshx14/IT342-Cararag-AttendMe) <br/> [Live](https://attendme-frontend.onrender.com/login) |
+| 🧸 <br/> **CozyPomodoro** | A beautifully designed, aesthetic Pomodoro timer crafted to elevate focus and productivity. Combines a user-centered minimalist interface with cozy visual cues to build a calming and distraction-free work or study environment. | [GitHub](https://github.com/trxshx14/CozyPomodoro.git) <br/> [Live](https://cozypomodoro-by-trishadev.vercel.app/) |
 
 <br/>
 
