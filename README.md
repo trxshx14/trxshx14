@@ -13,7 +13,7 @@
 ## 💫 About Me
 
 🎀 &nbsp;Information Technology student finding my way through code and creativity    
-🖌️ &nbsp;UX | UI Designer & Frontend Developer — making digital spaces beautiful and human    
+🖌️ &nbsp; **UX | UI Designer & Frontend Developer** - making digital spaces beautiful and human    
 🌱 &nbsp;Currently learning **Spring Boot** for backend development    
 ✨ &nbsp;Motivated by growth, consistency, and learning through challenges    
 
@@ -55,7 +55,7 @@
 | 🌱 | **Learning** | Spring Boot — Backend development & REST APIs |
 | 🎨 | **Exploring** | UX / UI Design — User-centered design & Figma |
 | 📚 | **Studying** | Information Technology — Systems, networks & software |
-| 💡 | **Building toward** | Full-Stack + Design — Where good code meets good design |
+| 💡 | **Building toward** | Frontend + Design — Where good code meets good design |
 
 <br/>
 
@@ -64,9 +64,9 @@
 | Status | Topic | Focus Area |
 |---|---|---|
 | 🟣 `In Progress` | **Spring Boot** | REST APIs & backend architecture |
-| 🩷 `In Progress` | **UX/UI Design** | Figma, wireframing & user flows |
+| 🩷 `Learned` | **UX/UI Design** | Figma, wireframing & user flows |
 | 🌸 `Learned` | **React + TailwindCSS** | Frontend development |
-| 🌺 `Learned` | **Python + Django** | Web apps & scripting |
+| 🌺 `In Progress` | **Typescript** | Web apps & scripting |
 | 🌟 `Up Next` | **Mobile Development** | Android with Kotlin |
 
 <br/>
