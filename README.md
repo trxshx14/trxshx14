@@ -48,7 +48,7 @@
 
 <br/>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=trxshx14&show_icons=true&theme=default&title_color=e991b8&icon_color=e991b8&text_color=555555&bg_color=ffffff&hide_border=false" alt="Trisha's GitHub Stats" height="180" />
@@ -82,12 +82,41 @@
 
 ## 🌺 Projects I'm Proud Of
 
-| Project | Description | Links |
-| :---: | | :---: |
-| 🗓️ <br/> **AttendMe** | A full-stack web application that streamlines attendance tracking for students and instructors. Features secure user authentication, real-time attendance recording, and a clean dashboard. Built with a responsive **React** frontend and a **Spring Boot** REST API with **MySQL**. | [GitHub](https://github.com/trxshx14/IT342-Cararag-AttendMe) <br/> [Live](https://attendme-frontend.onrender.com/login) |
-| 🧸 <br/> **CozyPomodoro** | A beautifully designed, aesthetic Pomodoro timer crafted to elevate focus and productivity. Combines a user-centered minimalist interface with cozy visual cues to build a calming and distraction-free work or study environment. | [GitHub](https://github.com/trxshx14/CozyPomodoro.git) <br/> [Live](https://cozypomodoro-by-trishadev.vercel.app/) |
-
-<br/>
+<table>
+  <thead>
+    <tr>
+      <th align="center">Project</th>
+      <th align="left">Description</th>
+      <th align="center">Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle" width="15%">
+        🗓️<br/><b>AttendMe</b>
+      </td>
+      <td align="left" valign="top" width="70%">
+        A full-stack web application that streamlines attendance tracking for students and instructors. Features secure user authentication, real-time attendance recording, and a clean dashboard. Built with a responsive <b>React</b> frontend and a <b>Spring Boot</b> REST API with <b>MySQL</b>.
+      </td>
+      <td align="center" valign="middle" width="15%">
+        <a href="https://github.com/trxshx14/IT342-Cararag-AttendMe">GitHub</a><br/>
+        <a href="https://attendme-frontend.onrender.com/login">Live</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        🧸<br/><b>CozyPomodoro</b>
+      </td>
+      <td align="left" valign="top">
+        A beautifully designed, aesthetic Pomodoro timer crafted to elevate focus and productivity. Combines a user-centered minimalist interface with cozy visual cues to build a calming and distraction-free work or study environment.
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://github.com/trxshx14/CozyPomodoro.git">GitHub</a><br/>
+        <a href="https://cozypomodoro-by-trishadev.vercel.app/">Live</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## ✍️ Words I Code By
 
