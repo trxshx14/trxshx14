@@ -113,10 +113,23 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
+  <!-- Top Row: Stats Card & Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=trxshx14&show_icons=true&theme=default&title_color=e991b8&icon_color=e991b8&text_color=555555&bg_color=ffffff&hide_border=false" alt="Trisha's GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trxshx14&layout=compact&theme=default&title_color=e991b8&text_color=555555&bg_color=ffffff&hide_border=false" alt="Trisha's Most Used Languages" height="180" />
+  
+  <br/><br/>
+  
+  <!-- Bottom Row: Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trxshx14&theme=default&theme=default&title_color=e991b8&ring_color=e991b8&fire_color=e991b8&text_color=555555&bg_color=ffffff&hide_border=false" alt="Trisha's GitHub Streak" height="180" />
 </div>
 
+<br/>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=e991b8&height=100&section=footer" />
+</div>
 <br/>
 
 ---
