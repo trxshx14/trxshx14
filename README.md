@@ -113,11 +113,13 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trxshx14&show_icons=true&theme=default&title_color=e991b8&icon_color=e991b8&text_color=555555&bg_color=ffffff&hide_border=false" alt="Trisha's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trxshx14&theme=default&title_color=e991b8&text_color=555555&bg_color=ffffff&hide_border=false" alt="Trisha's Most Used Languages" />
+  <!-- Top Row: Compact cards forced to align at the top -->
+  <img src="https://github-readme-stats.vercel.app/api?username=trxshx14&show_icons=true&theme=default&title_color=e991b8&icon_color=e991b8&text_color=555555&bg_color=ffffff&hide_border=false" alt="Trisha's GitHub Stats" style="vertical-align: top;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trxshx14&layout=compact&theme=default&title_color=e991b8&text_color=555555&bg_color=ffffff&hide_border=false" alt="Trisha's Most Used Languages" style="vertical-align: top;" />
   
   <br/><br/>
   
+  <!-- Bottom Row: Streak Stats Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=trxshx14&currStreakNum=e991b8&currStreakLabel=e991b8&sideNums=e991b8&sideLabels=555555&dates=555555&ring=e991b8&fire=e991b8&stroke=e991b8&bg_color=ffffff&hide_border=false" alt="Trisha's GitHub Streak" />
 </div>
 
