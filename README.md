@@ -12,8 +12,8 @@
 
 ## 💫 About Me
 
-🎀 &nbsp;**Information Technology student** bridging the gap between clean code and thoughtful design.  
-🖌️ &nbsp;**UX | UI Designer & Frontend Developer** focused on making digital spaces beautiful, accessible, and human.  
+🎀 &nbsp;**Frontend Developer & UX | UI Designer** bridging the gap between clean code and thoughtful design.  
+🖌️ &nbsp;Focused on making digital spaces beautiful, accessible, and human.  
 🌱 &nbsp;Currently expanding into full-stack development by mastering **Spring Boot** and **TypeScript**.  
 
 <br/>
