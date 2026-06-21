@@ -63,11 +63,11 @@
 
 | Status | Technology / Discipline | Focus Area & Application |
 |---|---|---|
-| * `Core` | **UX/UI Design & Figma** | Wireframing, user flows, and high-fidelity prototyping |
-| * `Core` | **React + TailwindCSS** | Building responsive, modular frontend interfaces |
-| * `In Progress`| **Spring Boot & REST APIs** | Developing secure backend architectures (as seen in *AttendMe*) |
-| * `In Progress`| **TypeScript** | Improving type safety and code quality in web applications |
-| * `Up Next` | **Mobile Development** | Native Android application development using Kotlin |
+|  `Core` | **UX/UI Design & Figma** | Wireframing, user flows, and high-fidelity prototyping |
+|  `Core` | **React + TailwindCSS** | Building responsive, modular frontend interfaces |
+|  `In Progress`| **Spring Boot & REST APIs** | Developing secure backend architectures (as seen in *AttendMe*) |
+|  `In Progress`| **TypeScript** | Improving type safety and code quality in web applications |
+|  `Up Next` | **Mobile Development** | Native Android application development using Kotlin |
 
 <br/>
 
