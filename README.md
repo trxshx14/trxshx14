@@ -12,9 +12,9 @@
 
 ## 💫 About Me
 
-*  **Frontend Developer & UX | UI Designer** bridging the gap between clean code and thoughtful design.
-*  Focused on making digital spaces beautiful, accessible, and human.
-*  Currently expanding into full-stack development by mastering **Spring Boot** and **TypeScript**.
+*  **Frontend Developer & UX | UI Designer** – bridging the gap between clean code and thoughtful design.  
+*  **Design Philosophy** – focused on making digital spaces beautiful, accessible, and human.  
+*  **Current Growth** – expanding into full-stack development by mastering **Spring Boot** and **TypeScript**.  
 
 <br/>
 
@@ -23,7 +23,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-e991b8?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://trisha-cararag-portfolio.vercel.app/)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/trisha-raye-cararag/)&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:cararagtrisharaye@gmail.com)
-
 
 <br/>
 
@@ -44,12 +43,12 @@
 ![Django](https://img.shields.io/badge/Django-e991b8?style=for-the-badge&logo=django&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/MySQL-e991b8?style=for-the-badge&logo=mysql&logoColor=ffffff)
 
-###  Tools & Deployment
+###  Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-e991b8?style=for-the-badge&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/GitHub-e991b8?style=for-the-badge&logo=github&logoColor=ffffff)
+![Supabase](https://img.shields.io/badge/Supabase-e991b8?style=for-the-badge&logo=supabase&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/Vercel-e991b8?style=for-the-badge&logo=vercel&logoColor=ffffff)
 ![Render](https://img.shields.io/badge/Render-e991b8?style=for-the-badge&logo=render&logoColor=ffffff)
-![Supabase](https://img.shields.io/badge/Supabase-e991b8?style=for-the-badge&logo=supabase&logoColor=ffffff)
 
 ###  Foundational & Systems Programming
 ![C Language](https://img.shields.io/badge/C-e991b8?style=for-the-badge&logo=c&logoColor=ffffff)
@@ -62,14 +61,13 @@
 
 ## 🗺️ Current Focus & Journey
 
-
 | Status | Technology / Discipline | Focus Area & Application |
 |---|---|---|
-| 🩷 `Core` | **UX/UI Design & Figma** | Wireframing, user flows, and high-fidelity prototyping |
-| 🌸 `Core` | **React + TailwindCSS** | Building responsive, modular frontend interfaces |
-| 🟣 `In Progress`| **Spring Boot & REST APIs** | Developing secure backend architectures (as seen in *AttendMe*) |
-| 🌺 `In Progress`| **TypeScript** | Improving type safety and code quality in web applications |
-| 🌟 `Up Next` | **Mobile Development** | Native Android application development using Kotlin |
+| * `Core` | **UX/UI Design & Figma** | Wireframing, user flows, and high-fidelity prototyping |
+| * `Core` | **React + TailwindCSS** | Building responsive, modular frontend interfaces |
+| * `In Progress`| **Spring Boot & REST APIs** | Developing secure backend architectures (as seen in *AttendMe*) |
+| * `In Progress`| **TypeScript** | Improving type safety and code quality in web applications |
+| * `Up Next` | **Mobile Development** | Native Android application development using Kotlin |
 
 <br/>
 
