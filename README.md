@@ -12,9 +12,9 @@
 
 ## 💫 About Me
 
-🎀 &nbsp;**Frontend Developer & UX | UI Designer** bridging the gap between clean code and thoughtful design.  
-🖌️ &nbsp;Focused on making digital spaces beautiful, accessible, and human.  
-🌱 &nbsp;Currently expanding into full-stack development by mastering **Spring Boot** and **TypeScript**.  
+*  **Frontend Developer & UX | UI Designer** bridging the gap between clean code and thoughtful design.
+*  Focused on making digital spaces beautiful, accessible, and human.
+*  Currently expanding into full-stack development by mastering **Spring Boot** and **TypeScript**.
 
 <br/>
 
@@ -43,6 +43,13 @@
 ![Python](https://img.shields.io/badge/Python-e991b8?style=for-the-badge&logo=python&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/Django-e991b8?style=for-the-badge&logo=django&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/MySQL-e991b8?style=for-the-badge&logo=mysql&logoColor=ffffff)
+
+###  Tools & Deployment
+![Git](https://img.shields.io/badge/Git-e991b8?style=for-the-badge&logo=git&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/GitHub-e991b8?style=for-the-badge&logo=github&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/Vercel-e991b8?style=for-the-badge&logo=vercel&logoColor=ffffff)
+![Render](https://img.shields.io/badge/Render-e991b8?style=for-the-badge&logo=render&logoColor=ffffff)
+![Supabase](https://img.shields.io/badge/Supabase-e991b8?style=for-the-badge&logo=supabase&logoColor=ffffff)
 
 ###  Foundational & Systems Programming
 ![C Language](https://img.shields.io/badge/C-e991b8?style=for-the-badge&logo=c&logoColor=ffffff)
@@ -123,8 +130,5 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=e991b8&height=100&section=footer" />
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=e991b8&height=100&section=footer" />
 </div>
