@@ -118,8 +118,8 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-one-virid-85.vercel.app/api?username=trxshx14&show_icons=true&hide_border=true&bg_color=ffffff&title_color=e991b8&text_color=555555&icon_color=e991b8" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-one-virid-85.vercel.app/api/top-langs/?username=trxshx14&hide_border=true&layout=compact&bg_color=ffffff&title_color=e991b8&text_color=555555&icon_color=e991b8" height="165" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=trxshx14&theme=default" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trxshx14&theme=default" alt="Top Languages"/>
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=trxshx14&hide_border=true&background=ffffff&stroke=e991b8&ring=e991b8&fire=e991b8&currStreakNum=555555&sideNums=e991b8&currStreakLabel=e991b8&sideLabels=e991b8&dates=999999" alt="GitHub Streak"/>
 </div>
