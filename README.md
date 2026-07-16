@@ -37,57 +37,6 @@ I work at the intersection of **design and engineering** — the person who can 
 
 <br/>
 
-## Featured Projects
-
-<table>
-  <thead>
-    <tr>
-      <th align="center" width="20%">Project</th>
-      <th align="left" width="65%">Description & Tech Stack</th>
-      <th align="center" width="15%">Links</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <b>AttendMe</b>
-        <br/><br/>
-        <sub>Full-Stack Web App</sub>
-      </td>
-      <td align="left" valign="top">
-        A full-stack attendance management platform for students and instructors. I designed the UX in Figma, built the React frontend, and developed the Spring Boot REST API with <b>secure JWT-based authentication</b>, real-time attendance recording, and role-based dashboards — deployed end to end.
-        <br/><br/>
-        <b>Highlights:</b> Secure auth · REST API architecture · Relational data modeling · Responsive dashboard UI
-        <br/><br/>
-        <b>Tech:</b> <code>React</code> <code>Spring Boot</code> <code>MySQL</code> <code>TailwindCSS</code>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://github.com/trxshx14/IT342-Cararag-AttendMe"><b>Source</b></a><br/><br/>
-        <a href="https://attendme-frontend.onrender.com/login"><b>Live Demo</b></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle">
-        <b>CozyPomodoro</b>
-        <br/><br/>
-        <sub>Frontend + UX Design</sub>
-      </td>
-      <td align="left" valign="top">
-        A design-led Pomodoro timer built to make deep focus feel inviting rather than clinical. Designed the complete visual identity and interaction model in Figma, then implemented it as a fast, distraction-free React app with a calming, minimalist interface.
-        <br/><br/>
-        <b>Highlights:</b> Original UI/UX design system · Micro-interactions · Minimalist, user-centered interface
-        <br/><br/>
-        <b>Tech:</b> <code>React</code> <code>TailwindCSS</code> <code>Figma</code>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://github.com/trxshx14/CozyPomodoro.git"><b>Source</b></a><br/><br/>
-        <a href="https://cozypomodoro-by-trishadev.vercel.app/"><b>Live Demo</b></a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<br/>
 
 ## Tech Stack
 
