@@ -91,34 +91,29 @@ I work at the intersection of **design and engineering** — the person who can 
 
 ## Tech Stack
 
+<div align="center">
+
 ### Design & Frontend
-![Figma](https://img.shields.io/badge/Figma-e991b8?style=for-the-badge&logo=figma&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-e991b8?style=for-the-badge&logo=javascript&logoColor=ffffff)
-![React](https://img.shields.io/badge/React-e991b8?style=for-the-badge&logo=react&logoColor=ffffff)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-e991b8?style=for-the-badge&logo=tailwind-css&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/HTML5-e991b8?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/CSS3-e991b8?style=for-the-badge&logo=css3&logoColor=ffffff)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=figma,js,react,tailwind,html,css&theme=light" />
+</a>
 
 ### Backend & Databases
-![Java](https://img.shields.io/badge/Java-e991b8?style=for-the-badge&logo=openjdk&logoColor=ffffff)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-e991b8?style=for-the-badge&logo=spring&logoColor=ffffff)
-![Python](https://img.shields.io/badge/Python-e991b8?style=for-the-badge&logo=python&logoColor=ffffff)
-![Django](https://img.shields.io/badge/Django-e991b8?style=for-the-badge&logo=django&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/MySQL-e991b8?style=for-the-badge&logo=mysql&logoColor=ffffff)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,py,django,mysql&theme=light" />
+</a>
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-e991b8?style=for-the-badge&logo=git&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/GitHub-e991b8?style=for-the-badge&logo=github&logoColor=ffffff)
-![Supabase](https://img.shields.io/badge/Supabase-e991b8?style=for-the-badge&logo=supabase&logoColor=ffffff)
-![Vercel](https://img.shields.io/badge/Vercel-e991b8?style=for-the-badge&logo=vercel&logoColor=ffffff)
-![Render](https://img.shields.io/badge/Render-e991b8?style=for-the-badge&logo=render&logoColor=ffffff)
-
-### Systems & Foundations
-![C Language](https://img.shields.io/badge/C-e991b8?style=for-the-badge&logo=c&logoColor=ffffff)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,supabase,vercel,c&theme=light" />
+</a>
 
 ### Currently Learning
-![TypeScript](https://img.shields.io/badge/TypeScript-e991b8?style=for-the-badge&logo=typescript&logoColor=ffffff)
-![Kotlin](https://img.shields.io/badge/Kotlin-e991b8?style=for-the-badge&logo=kotlin&logoColor=ffffff)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,kotlin&theme=light" />
+</a>
+
+</div>
 
 <br/>
 
