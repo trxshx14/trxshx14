@@ -117,18 +117,6 @@ I work at the intersection of **design and engineering** — the person who can 
 
 <br/>
 
-## Current Focus & Roadmap
-
-| Status | Technology / Discipline | Focus Area & Application |
-|:---:|---|---|
-| `Core` | **UX/UI Design & Figma** | Wireframing, user flows, and high-fidelity prototyping |
-| `Core` | **React + TailwindCSS** | Building responsive, modular frontend interfaces |
-| `In Progress` | **Spring Boot & REST APIs** | Secure backend architectures (applied in *AttendMe*) |
-| `In Progress` | **TypeScript** | Type safety and long-term maintainability in web apps |
-| `Up Next` | **Mobile Development** | Native Android development with Kotlin |
-
-<br/>
-
 ## GitHub Analytics
 
 <div align="center">
