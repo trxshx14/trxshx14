@@ -139,6 +139,8 @@ I work at the intersection of **design and engineering** — the person who can 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=trxshx14&show_icons=true&hide=stars&hide_border=true&bg_color=ffffff&title_color=e991b8&icon_color=e991b8&text_color=555555&ring_color=e991b8" height="165" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=trxshx14&layout=compact&hide_border=true&bg_color=ffffff&title_color=e991b8&text_color=555555" height="165" alt="Top Languages"/>
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=trxshx14&hide_border=true&background=ffffff&stroke=e991b8&ring=e991b8&fire=e991b8&currStreakNum=555555&sideNums=e991b8&currStreakLabel=e991b8&sideLabels=e991b8&dates=999999" alt="GitHub Streak"/>
 </div>
 
 <br/>
