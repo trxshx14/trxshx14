@@ -12,13 +12,11 @@ Frontend Developer & UX/UI Designer who **designs directly in code** — buildin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/trisha-raye-cararag/)&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:cararagtrisharaye@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=trxshx14&color=e991b8&style=flat-square&label=profile+views" alt="Profile views" />
-
 </div>
 
 <br/>
 
-## 🌸 About Me
+## About Me
 
 I work at the intersection of **design and engineering** — I take a product from first idea to a deployed, responsive app, and I design it right where it will live: in the browser.
 
@@ -29,7 +27,7 @@ I work at the intersection of **design and engineering** — I take a product fr
 
 <br/>
 
-## ✨ Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -72,7 +70,7 @@ I work at the intersection of **design and engineering** — I take a product fr
 
 <br/>
 
-## 💡 What I Bring to a Team
+## What I Bring to a Team
 
 | Strength | In Practice |
 |---|---|
@@ -85,7 +83,7 @@ I work at the intersection of **design and engineering** — I take a product fr
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -118,34 +116,40 @@ I work at the intersection of **design and engineering** — I take a product fr
 
 <br/>
 
-## 📊 GitHub Analytics
+## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=trxshx14&show_icons=true&hide=stars&hide_border=true&bg_color=ffffff&title_color=e991b8&icon_color=e991b8&text_color=555555&ring_color=e991b8" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=trxshx14&layout=compact&hide_border=true&bg_color=ffffff&title_color=e991b8&text_color=555555" height="165" alt="Top Languages"/>
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=trxshx14&hide_border=true&background=ffffff&stroke=e991b8&ring=e991b8&fire=e991b8&currStreakNum=555555&sideNums=e991b8&currStreakLabel=e991b8&sideLabels=e991b8&dates=999999" alt="GitHub Streak"/>
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trxshx14&bg_color=ffffff&color=555555&line=e991b8&point=e991b8&area=true&area_color=e991b8&hide_border=true&custom_title=Contribution%20Activity&title_color=e991b8" alt="Contribution activity graph" width="100%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-bloom-dark.svg" />
+  <img src="./assets/contribution-bloom.svg" alt="Contribution grid: a glowing orb travels across the year and each day with contributions blooms as it passes" width="100%" />
+</picture>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.shion.dev/api?username=trxshx14&show_icons=true&hide=stars&hide_border=true&bg_color=ffffff&title_color=e991b8&icon_color=e991b8&text_color=555555&ring_color=e991b8" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=trxshx14&layout=compact&hide_border=true&bg_color=ffffff&title_color=e991b8&text_color=555555" height="165" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=trxshx14&hide_border=true&background=ffffff&stroke=e991b8&ring=e991b8&fire=e991b8&currStreakNum=555555&sideNums=e991b8&currStreakLabel=e991b8&sideLabels=e991b8&dates=999999" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-graph-dark.svg" />
+  <img src="./assets/activity-graph.svg" alt="Contribution activity over the last 31 days" width="100%" />
+</picture>
+
 </div>
 
 <br/>
 
-<details>
-<summary><b>🎀 A few fun facts</b></summary>
 <br/>
 
-- I design in the browser — if it doesn't feel right on screen, it isn't done.
-- There's a pathfinding cat in **Nook** who sits down in protest if you block her path.
-- My Pomodoro timer's cat drinks bubble tea when you finish a focus session.
+## Let's Build Something
 
-</details>
-
-<br/>
-
-## 💌 Let's Build Something
-
-I'm open to **frontend, UX/UI, and full-stack opportunities** — internships, entry-level roles, freelance, and collaborations. If you're looking for someone who can own a feature from first idea to production deploy, let's talk.
+I'm open to **frontend, UX/UI, and full-stack opportunities**, including internships, entry-level roles, freelance projects, and collaborations. If you need someone who can own a feature from first idea to production deploy, I'd be glad to talk.
 
 <div align="center">
 
