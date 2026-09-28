@@ -134,12 +134,6 @@ I work at the intersection of **design and engineering** — I take a product fr
 
 <img src="https://streak-stats.demolab.com/?user=trxshx14&hide_border=true&background=ffffff&stroke=e991b8&ring=e991b8&fire=e991b8&currStreakNum=555555&sideNums=e991b8&currStreakLabel=e991b8&sideLabels=e991b8&dates=999999" alt="GitHub Streak"/>
 
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-graph-dark.svg" />
-  <img src="./assets/activity-graph.svg" alt="Contribution activity over the last 31 days" width="100%" />
-</picture>
 
 </div>
 
