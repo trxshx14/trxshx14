@@ -27,49 +27,6 @@ I work at the intersection of **design and engineering** — I take a product fr
 
 <br/>
 
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://aura-beauty-glow.vercel.app/"><img src="https://trisha-cararag-portfolio.vercel.app/images/aura-cover.png" alt="Aura Beauty" /></a>
-      <h3>Aura Beauty</h3>
-      <p>Scroll-synced WebGL storytelling for a premium cosmetics brand — a 3D product that rotates and morphs as you scroll, at 60 FPS.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>React Three Fiber</code> <code>GSAP</code></p>
-      <a href="https://aura-beauty-glow.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-e991b8?style=flat-square&logo=vercel&logoColor=ffffff" /></a>
-      <a href="https://github.com/trxshx14/aura-beauty"><img src="https://img.shields.io/badge/Code-555555?style=flat-square&logo=github&logoColor=ffffff" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://attendme-frontend.onrender.com/login"><img src="https://trisha-cararag-portfolio.vercel.app/images/attendme-dashboard.png" alt="AttendMe" /></a>
-      <h3>AttendMe</h3>
-      <p>Role-based attendance management for schools — JWT auth, a Spring Boot REST API, a React web app, and an Android client.</p>
-      <p><code>React</code> <code>Spring Boot</code> <code>MySQL</code> <code>Android</code></p>
-      <a href="https://attendme-frontend.onrender.com/login"><img src="https://img.shields.io/badge/Live_Demo-e991b8?style=flat-square&logo=render&logoColor=ffffff" /></a>
-      <a href="https://github.com/trxshx14/IT342-Cararag-AttendMe"><img src="https://img.shields.io/badge/Code-555555?style=flat-square&logo=github&logoColor=ffffff" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://cozypomodoro-by-trishadev.vercel.app/"><img src="https://trisha-cararag-portfolio.vercel.app/images/cozy-dashboard.png" alt="Cozy Pomodoro" /></a>
-      <h3>Cozy Pomodoro</h3>
-      <p>A calm, lofi-inspired Pomodoro timer with a pixel cat companion and ambient audio synthesized with the Web Audio API.</p>
-      <p><code>React</code> <code>Tailwind CSS</code> <code>Web Audio API</code></p>
-      <a href="https://cozypomodoro-by-trishadev.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-e991b8?style=flat-square&logo=vercel&logoColor=ffffff" /></a>
-      <a href="https://github.com/trxshx14/CozyPomodoro"><img src="https://img.shields.io/badge/Code-555555?style=flat-square&logo=github&logoColor=ffffff" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://nook-trc.vercel.app/"><img src="https://trisha-cararag-portfolio.vercel.app/images/nook-cover.png" alt="Nook" /></a>
-      <h3>Nook</h3>
-      <p>A cozy 3D room arranger — drag, snap, and recolor furniture, re-skin the room in one click, and meet the pathfinding cat.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>React Three Fiber</code> <code>Zustand</code></p>
-      <a href="https://nook-trc.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-e991b8?style=flat-square&logo=vercel&logoColor=ffffff" /></a>
-      <a href="https://github.com/trxshx14/Nook"><img src="https://img.shields.io/badge/Code-555555?style=flat-square&logo=github&logoColor=ffffff" /></a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 ## What I Bring to a Team
 
 | Strength | In Practice |
